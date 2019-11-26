@@ -23,7 +23,7 @@ GH_TUPLE=	\
 		Sirupsen:logrus:26709e271410:sirupsen_logrus/vendor/github.com/Sirupsen/logrus \
 		coreos:go-systemd:48702e0da86b:coreos_go_systemd/vendor/github.com/coreos/go-systemd \
 		coreos:pkg:3ac0863d7acf:coreos_pkg/vendor/github.com/coreos/pkg \
-		docker:docker:0f5c9d301b9b:docker_docker/vendor/github.com/docker/docker \
+		moby:moby:0f5c9d301b9b:moby_moby/vendor/github.com/moby/moby \
 		docker:go-units:v0.2.0:docker_go_units/vendor/github.com/docker/go-units \
 		godbus:dbus:c7fdd8b5cd55:godbus_dbus/vendor/github.com/godbus/dbus \
 		golang:protobuf:18c9bb326172:golang_protobuf/vendor/github.com/golang/protobuf \

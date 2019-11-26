@@ -1,4 +1,4 @@
-TIMESTAMP = 1574798036
+TIMESTAMP = 1574798392
 SHA256 (niftyengineering-runc-v2019112601-b5218c702a1782f68d5ba50033e2f0788ccb735a_GH0.tar.gz) = 6acfaa1e7af4476c9ddf82ffbfde8c35bb2309bde58fa7955f3483e1cc5b5779
 SIZE (niftyengineering-runc-v2019112601-b5218c702a1782f68d5ba50033e2f0788ccb735a_GH0.tar.gz) = 1086014
 SHA256 (Sirupsen-logrus-26709e271410_GH0.tar.gz) = e9b758c6865ef91cea8192a48a08e91766c6bac9acb11ba1f59fb2c34899f0ba
@@ -7,8 +7,8 @@ SHA256 (coreos-go-systemd-48702e0da86b_GH0.tar.gz) = 6eb641263d48f7af747846c8e14
 SIZE (coreos-go-systemd-48702e0da86b_GH0.tar.gz) = 50716
 SHA256 (coreos-pkg-3ac0863d7acf_GH0.tar.gz) = 47b8ca2aa02823801b4744653a74a489fbdd8d9c5c67e205781f07b8b6b6c8f4
 SIZE (coreos-pkg-3ac0863d7acf_GH0.tar.gz) = 31017
-SHA256 (docker-docker-0f5c9d301b9b_GH0.tar.gz) = a7f6274fcb5b3938ac32551f35eb33bebfc904c5a27d63599d000027bb920ca5
-SIZE (docker-docker-0f5c9d301b9b_GH0.tar.gz) = 6993191
+SHA256 (moby-moby-0f5c9d301b9b_GH0.tar.gz) = a7f6274fcb5b3938ac32551f35eb33bebfc904c5a27d63599d000027bb920ca5
+SIZE (moby-moby-0f5c9d301b9b_GH0.tar.gz) = 6993191
 SHA256 (docker-go-units-v0.2.0_GH0.tar.gz) = a8d5b8a76114efb5a770ed0c22c132b691716f54b25fdcff35ff00772eb5127f
 SIZE (docker-go-units-v0.2.0_GH0.tar.gz) = 7119
 SHA256 (godbus-dbus-c7fdd8b5cd55_GH0.tar.gz) = bbdce91f8d375e652434f6ac7e12d5b1d021e69fd47523d3d0e11cff7d3abb7e
@@ -31,4 +31,3 @@ SHA256 (urfave-cli-d53eb991652b_GH0.tar.gz) = c9eb122d63c3d6211ec70c6a912ad37bdf
 SIZE (urfave-cli-d53eb991652b_GH0.tar.gz) = 51254
 SHA256 (vishvananda-netlink-1e2e08e8a2dc_GH0.tar.gz) = 6fc5b055e4b04183fbfa9a97a1f9be2600fa365a212c4786147ea6f641b76887
 SIZE (vishvananda-netlink-1e2e08e8a2dc_GH0.tar.gz) = 39958
-
